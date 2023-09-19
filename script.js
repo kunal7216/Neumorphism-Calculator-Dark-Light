@@ -1,3 +1,4 @@
+
 let buttons = document.querySelector(".buttons");
 let btn = document.querySelectorAll("span");
 let value = document.getElementById("value");
